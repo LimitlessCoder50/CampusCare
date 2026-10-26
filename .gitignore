@@ -1,0 +1,19 @@
+#python virtual environment
+backend/venv/
+backend/.venv/
+
+#cache files
+backend/.pytest_cache/
+
+#test files
+backend/tests/
+
+#environment variables
+backend/.env
+
+#database schema
+backend/supabase_schema.sql
+
+#Documentation
+Document/
+
